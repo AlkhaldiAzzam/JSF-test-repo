@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+
+body{
+	 font-family: "Century Gothic";
+	 font-size: 12px;
+}
+
+#login-form{
+	
+	width: 60%;
+	margin-left: 20%;
+	background: gray;
+	
+	border-radius: 5px;
+	
+	padding: 10px 5px 10px 5xp;
+	
+	}
+	
+	#login-form > *{
+	
+	margin-left: 50px;
+	}
+	
+	#btn {
+	border: none;
+	background: #34b195;
+	color: black;
+	width: 75px;
+	height: 20px;
+	
+	}
